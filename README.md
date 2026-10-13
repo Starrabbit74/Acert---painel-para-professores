@@ -2,7 +2,7 @@
 
 **Painel do Professor: descubra em qual assunto sua turma está errando.**
 
-🔗 **Acesse o site:** (https://starrabbit74.github.io/Acert---painel-para-professores/)
+🔗 **Acesse o site:** https://starrabbit74.github.io/Acert---painel-para-professores/
 
 ![Tela de análise do Acertô](print-analise.png) 
 
